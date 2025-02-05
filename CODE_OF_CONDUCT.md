@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-Changes for PRoject Submission
+Changes for Project Submission
 
 ## Our Pledge
 
